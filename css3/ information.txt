@@ -1,0 +1,6 @@
+Cascading Style Sheets 层叠样式表
+
+与html一起用于构建web页面
+
+ html 定义页面的结构和内容
+ css 负责控制页面的外观和样式
